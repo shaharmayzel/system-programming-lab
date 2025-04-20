@@ -1,0 +1,3 @@
+Error: Value out of range: 26
+Enter 25 values (1-25) for a 5x5 matrix:
+Failed to read matrix.

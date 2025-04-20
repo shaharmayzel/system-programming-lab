@@ -1,0 +1,6 @@
+Enter 9 values (1-9) for a 3x3 matrix:
+Matrix:
+  8   1   6 
+  3   5   7 
+  4   9   2 
+The matrix is a magic square.

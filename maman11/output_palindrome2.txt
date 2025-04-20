@@ -1,0 +1,3 @@
+Please enter a string (up to 80 characters):
+Input string: abba
+The string IS a palindrome.

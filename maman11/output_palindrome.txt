@@ -1,0 +1,4 @@
+Please enter a string (up to 80 characters):
+Input string: never odd or even
+
+The string IS a palindrome.

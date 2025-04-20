@@ -1,0 +1,3 @@
+Enter an unsigned integer:
+The number: 15
+Number of zero bits: 28

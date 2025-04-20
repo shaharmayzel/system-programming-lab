@@ -1,4 +1,4 @@
-System Programming Lab (20465) assignments  
+Open-U System Programming Lab (20465) assignments  
 Written in ANSI C, compiled with -Wall -ansi -pedantic.  
 Includes Makefiles, sample inputs and outputs.  
 
